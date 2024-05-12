@@ -16,6 +16,17 @@ Infinity♾️ Inshots is an innovative blogging platform designed to empower us
  - Real-Time Notifications: Stay updated with instant notifications for new interactions and activities.
 - Edit Profile Option: Keep your profile fresh and up-to-date with the ability to edit social links, bio, and more.
 - Mobile Responsive Design: Enjoy a seamless experience across all devices, with a modern design and captivating animations.
+
+- ![Screenshot (98)](https://github.com/btwshivam/InfinityInshots/assets/127589548/64de86f1-fae2-4d24-9880-ac8586c3e639)
+- ![Screenshot (99)](https://github.com/btwshivam/InfinityInshots/assets/127589548/0c0edb4a-e20a-4a8e-9c07-f44083772c35)
+- ![Screenshot (101)](https://github.com/btwshivam/InfinityInshots/assets/127589548/a7a85f60-d0f4-4acf-a0f4-f6d49bcae758)
+- ![Screenshot (102)](https://github.com/btwshivam/InfinityInshots/assets/127589548/29e7a55d-1187-4956-b7dd-d1044f402d7d)
+- ![Screenshot (103)](https://github.com/btwshivam/InfinityInshots/assets/127589548/d5eaa450-8f19-4eb9-a81c-2742f71afd78)
+- ![Screenshot (104)](https://github.com/btwshivam/InfinityInshots/assets/127589548/314cb6a4-1b48-4212-bfe9-73a3cd933d18)
+- ![Screenshot (106)](https://github.com/btwshivam/InfinityInshots/assets/127589548/cedcf32d-11d5-4e11-a654-86f4a2a3ea37)
+- ![Screenshot (107)](https://github.com/btwshivam/InfinityInshots/assets/127589548/e72ee055-5f6b-4694-af01-f518b7fa362e)
+- ![Screenshot (108)](https://github.com/btwshivam/InfinityInshots/assets/127589548/c0d253ed-1cb0-446a-9e42-43ff0ea04a38)
+
 ## Installation
 1.	Clone the repository: `git clone git@github.com:btwshivam/InfinityInshots.git`
 2.	Navigate to the project directory: `cd InfinityInshorts`
