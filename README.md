@@ -17,7 +17,7 @@ Infinity♾️ Inshots is an innovative blogging platform designed to empower us
 - Edit Profile Option: Keep your profile fresh and up-to-date with the ability to edit social links, bio, and more.
 - Mobile Responsive Design: Enjoy a seamless experience across all devices, with a modern design and captivating animations.
 ## Installation
-1.	Clone the repository: `git@github.com:btwshivam/InfinityInshots.git`
+1.	Clone the repository: `git clone git@github.com:btwshivam/InfinityInshots.git`
 2.	Navigate to the project directory: `cd InfinityInshorts`
 3.	Install dependencies: `npm install`
 4.	Start the development server: `npm run dev`
